@@ -27,3 +27,5 @@ Thumbs.db
 # Temp
 _pdf_extract/
 *.png.tmp
+~$*
+*.tmp
