@@ -27,7 +27,7 @@ python manage.py runserver
 
 نسخة استعراض ثابتة (واجهة + مساعد + قاعدة معرفة + تحليل المجالات):
 
-**https://elaf-1x-collab.github.io/nadee-smart-assistant/**
+**https://elaf-1x.github.io/nadee-smart-assistant/**
 
 ادخل بأي اسم مستخدم ثم استعرض الأقسام. الملفات في مجلد `docs/`.
 
